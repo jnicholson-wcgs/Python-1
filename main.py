@@ -3,9 +3,9 @@
 #Create a function that, given a number, returns the corresponding Fibonacci number.
 #
 #Examples
-#fibonacci(3) ➞ 3
-#fibonacci(7) ➞ 21
-#fibonacci(12) ➞ 233
+#fibonacci(3)= 3
+#fibonacci(7) = 21
+#fibonacci(12) = 233
 #Notes
 #The first number in the sequence starts at 1 (not 0).
 
@@ -36,9 +36,9 @@ for x in fibtest :
 #Create a function which takes in a number n as input and returns all numbers up to and including n joined # together in a string. Separate each digit from each other with the character '-'.
 
 #Examples
-#join_digits(4) ➞ '1-2-3-4'
-#join_digits(11) ➞ '1-2-3-4-5-6-7-8-9-1-0-1-1'
-#join_digits(15) ➞ '1-2-3-4-5-6-7-8-9-1-0-1-1-1-2-1-3-1-4-1-5'
+#join_digits(4) = '1-2-3-4'
+#join_digits(11) = '1-2-3-4-5-6-7-8-9-1-0-1-1'
+#join_digits(15) = '1-2-3-4-5-6-7-8-9-1-0-1-1-1-2-1-3-1-4-1-5'
 #Notes
 #Remember to start at 1 and include n as the last number.
 
@@ -66,10 +66,10 @@ for x in test :
 #Create a function that returns the amount of duplicate characters in a string. It will be case sensitive #and spaces are included. If there are no duplicates, return 0.
 #
 #Examples
-#duplicates("Hello World!") ➞ 3
-#duplicates("foobar") ➞ 1
-#duplicates("helicopter") ➞ 1
-#duplicates("birthday") ➞ 0
+#duplicates("Hello World!") = 3
+#duplicates("foobar") = 1
+#duplicates("helicopter") = 1
+#duplicates("birthday") = 0
 # If there are no duplicates, return 0
 
 # 
@@ -80,7 +80,7 @@ for x in test :
 #
 #Create a function that returns the Primorial of a number.
 #Examples
-#primorial(1) ➞ 2
-#primorial(2) ➞ 6
-#primorial(8) ➞ 9699690
+#primorial(1) = 2
+#primorial(2) = 6
+#primorial(8) = 9699690
 
